@@ -10,3 +10,9 @@ div {
 p {
     font-size: 20px;
 }
+
+a {
+    margin: 10px;
+    text-decoration: none;
+    text-align: justify;
+}
